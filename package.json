@@ -1,0 +1,16 @@
+{
+  "name": "frozaumbot",
+  "version": "1.0.0",
+  "description": "um bot super lecau",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frozaum",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "opusscript": "0.0.4",
+    "ytdl-core": "^0.18.2"
+  }
+}
